@@ -1,0 +1,31 @@
+                ╔═══════════════╗
+                ║       安卓源码服务专家       ║
+  ╔══════╣───────────────╠══════╗
+  ║            ║    http://www.javaapk.com    ║            ║
+  ║            ╚═══════════════╝            ║
+　║                                                          ║
+　║JavaApk声明：                                             ║
+  ║   1) 本站不保证所提供软件或程序的完整性和安全性。        ║
+  ║   2) 转载本站提供的资源请勿删除本说明文件。              ║
+  ║   3) 本站源码为网上搜集或网友提供，如果涉及或侵害到您的版║
+  ║      权，请立即通知我们。                                ║
+  ║   4) 本站提供免费代码只可供研究学习使用，切勿用于商业用途║
+  ║      由此引起一切后果与本站无关。                        ║
+  ║   5) 商业源码请在源码授权范围内进行使用！                ║
+　║                                                          ║
+  ║           JavaApk —— 安卓源码服务专家                  ║
+  ║           联系方式 : javaapk@qq.com                      ║
+  ║    ╔═══════════════════════╗    ║
+  ╚══╣    安卓源码专业站 http://www.JavaApk.com     ╠══╝
+        ╚═══════════════════════╝
+
+源码简介:
+最近经常有朋友在淘宝上问我有没有打车项目的源码，最近真发现一个基于安卓的打车项目源码，本项目是某公司的一个中型项目，只包括用户端项目源码，没有司机端和服务端源码，因为服务端IP地址有变动导致项目不能正常登录，截图只能在第一个界面。翻了翻源码发现有拼车、历史记录、密码修改、在线升级、意见反馈、问题投诉等功能的实现代码。地图使用的百度MapAPI，现在Key还有效，如果某一天你下载本源码以后发现地图显示不了了就证明key失效了可以去http://dev.baidu.com/wiki/static/imap/key/申请。项目虽然不完美但是也完全可以作为借鉴解决一些燃眉之急。本项目源码登录后可以免费下载。
+涉及模块&技术
+多线程
+百度地图
+意见反馈
+用户投诉
+登录注册
+在线更新
+...
